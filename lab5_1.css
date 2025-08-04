@@ -1,0 +1,17 @@
+#image {
+  width: 300px;
+  height: auto;
+  outline: 5px solid #000; /* Outer border */
+  outline-offset: -5px;   /* Inner framing effect */
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #f0f0f0;
+}
